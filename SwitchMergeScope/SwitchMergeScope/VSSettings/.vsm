@@ -6,7 +6,7 @@
     <Node>
       <Title>Scope Project1</Title>
       <Expanded>True</Expanded>
-      <FileName>C:\Users\Administrator\Desktop\Projects\SwitchMergeScope\SwitchMergeScope\Scope Project1.tcscopex</FileName>
+      <FileName>C:\Users\Administrator\Documents\XTS_XL_Scopes\SwitchMergeScope\SwitchMergeScope\Scope Project1.tcscopex</FileName>
       <Children>
         <Node>
           <Title>DataPool</Title>
@@ -496,7 +496,7 @@
           <Children>
             <Node>
               <Title>Axis Group</Title>
-              <Expanded>True</Expanded>
+              <Expanded>False</Expanded>
               <FileName></FileName>
               <Children>
                 <Node>

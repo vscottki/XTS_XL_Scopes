@@ -46,7 +46,7 @@
     <Version>4.48.58.0</Version>
   </ServerVersions>
   <SortPriority>100</SortPriority>
-  <StopMode>AutoStop</StopMode>
+  <StopMode>ClientStop</StopMode>
   <SubMember>
     <DataPool AssemblyName="TwinCAT.Measurement.Scope.API.Model">
       <Comment />
@@ -56,7 +56,7 @@
       <SortPriority>0</SortPriority>
       <SubMember>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -151,7 +151,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -246,7 +246,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -341,7 +341,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -436,7 +436,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -531,7 +531,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -626,7 +626,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -721,7 +721,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -816,7 +816,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -911,7 +911,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1006,7 +1006,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1101,7 +1101,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1196,7 +1196,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1291,7 +1291,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1386,7 +1386,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1481,7 +1481,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1576,7 +1576,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1671,7 +1671,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1766,7 +1766,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1861,7 +1861,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -1956,7 +1956,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -2051,7 +2051,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -2146,7 +2146,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -2241,7 +2241,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -2336,7 +2336,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -2431,7 +2431,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -2526,7 +2526,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -2621,7 +2621,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -2716,7 +2716,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -2811,7 +2811,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -2906,7 +2906,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3001,7 +3001,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3096,7 +3096,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3191,7 +3191,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3286,7 +3286,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3381,7 +3381,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3476,7 +3476,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3571,7 +3571,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3666,7 +3666,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3761,7 +3761,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3856,7 +3856,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -3951,7 +3951,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4046,7 +4046,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4141,7 +4141,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4236,7 +4236,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4331,7 +4331,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4426,7 +4426,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4521,7 +4521,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4616,7 +4616,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4711,7 +4711,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4806,7 +4806,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4901,7 +4901,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -4996,7 +4996,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -5091,7 +5091,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -5186,7 +5186,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -5281,7 +5281,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -5376,7 +5376,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -5471,7 +5471,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -5566,7 +5566,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -5661,7 +5661,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -5756,7 +5756,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -5851,7 +5851,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -5946,7 +5946,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -6041,7 +6041,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>5000</BaseSampleTime>
@@ -6136,7 +6136,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -6163,7 +6163,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>99f60d04-0dd5-4fc6-bf15-9eeac371d7ee</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>462160</IndexOffset>
+          <IndexOffset>462152</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>MoverPos</Name>
           <Oversample>0</Oversample>
@@ -6231,7 +6231,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -6258,7 +6258,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>92115688-7fcb-4efc-9abb-4fa2ca6c8862</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>449770</IndexOffset>
+          <IndexOffset>449634</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>Active</Name>
           <Oversample>0</Oversample>
@@ -6326,7 +6326,7 @@
           <VariableSize>1</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -6353,7 +6353,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>49896aee-03d1-471c-a23a-af07edf346d7</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>449771</IndexOffset>
+          <IndexOffset>449635</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>Busy</Name>
           <Oversample>0</Oversample>
@@ -6421,7 +6421,7 @@
           <VariableSize>1</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -6448,7 +6448,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>fe32fb1e-b37b-4cca-aea8-966107cd0328</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>449773</IndexOffset>
+          <IndexOffset>449637</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>Error</Name>
           <Oversample>0</Oversample>
@@ -6516,7 +6516,7 @@
           <VariableSize>1</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -6543,7 +6543,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>a096d87a-2112-4a6f-8459-9711deb8e3c1</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>449776</IndexOffset>
+          <IndexOffset>449640</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>ErrorId</Name>
           <Oversample>0</Oversample>
@@ -6611,7 +6611,7 @@
           <VariableSize>4</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -6638,7 +6638,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>f9fc0722-5c43-4758-b7f4-226e361d3617</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>418414</IndexOffset>
+          <IndexOffset>418306</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>nMoveState[1]</Name>
           <Oversample>0</Oversample>
@@ -6706,7 +6706,7 @@
           <VariableSize>2</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -6733,7 +6733,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>f554cad9-df13-4794-9bc8-37d2cfdecc84</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>447276</IndexOffset>
+          <IndexOffset>447088</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>moverInFront</Name>
           <Oversample>0</Oversample>
@@ -6801,7 +6801,7 @@
           <VariableSize>4</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -6828,7 +6828,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>7b06ed56-7e29-4e93-87e5-f370b96858a8</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>447288</IndexOffset>
+          <IndexOffset>447064</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>masterSyncPos</Name>
           <Oversample>0</Oversample>
@@ -6896,7 +6896,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -6923,7 +6923,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>7b12a192-95c7-4a9c-b0df-4bfc2fae7154</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>447280</IndexOffset>
+          <IndexOffset>447056</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>followSyncPos</Name>
           <Oversample>0</Oversample>
@@ -6991,7 +6991,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -7018,7 +7018,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>d58b4a5d-acff-4d96-9bdc-53678f4a3143</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>447304</IndexOffset>
+          <IndexOffset>447080</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>followerPosAtSync</Name>
           <Oversample>0</Oversample>
@@ -7086,7 +7086,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -7113,7 +7113,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>378a6e2e-43db-43ef-b4f2-bd6cb4be30f6</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>447296</IndexOffset>
+          <IndexOffset>447072</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>masterPosAtSync</Name>
           <Oversample>0</Oversample>
@@ -7181,7 +7181,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -7208,7 +7208,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>425b458d-33a5-4109-b189-24212ea32cac</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>449848</IndexOffset>
+          <IndexOffset>449712</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>_InSync</Name>
           <Oversample>0</Oversample>
@@ -7276,7 +7276,7 @@
           <VariableSize>1</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -7303,7 +7303,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>55b962e2-561f-4136-8847-d4f2a4b10d13</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>448064</IndexOffset>
+          <IndexOffset>447920</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>followerToEndOfTrack</Name>
           <Oversample>0</Oversample>
@@ -7371,7 +7371,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -7398,7 +7398,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>bedc86da-5708-42c6-9937-f20d61ff9532</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>448072</IndexOffset>
+          <IndexOffset>447928</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>leaderToEndofTrack</Name>
           <Oversample>0</Oversample>
@@ -7466,7 +7466,7 @@
           <VariableSize>8</VariableSize>
         </AdsAcquisition>
         <AdsAcquisition AssemblyName="TwinCAT.Measurement.Scope.API.Model">
-          <AmsNetId>172.17.68.172.1.1</AmsNetId>
+          <AmsNetId>11.200.5.30.1.1</AmsNetId>
           <Area>Local</Area>
           <ArrayLength>0</ArrayLength>
           <BaseSampleTime>20000</BaseSampleTime>
@@ -7493,7 +7493,7 @@
           <ForceOversampling>false</ForceOversampling>
           <Guid>59919a3a-39c2-4efb-a708-6825b3a92001</Guid>
           <IndexGroup>16448</IndexGroup>
-          <IndexOffset>448080</IndexOffset>
+          <IndexOffset>447936</IndexOffset>
           <IsHistorical>false</IsHistorical>
           <Name>distToMoverInFront</Name>
           <Oversample>0</Oversample>
@@ -12052,7 +12052,7 @@
               <ShowTitle>Name</ShowTitle>
               <SortPriority>100</SortPriority>
               <SubMember />
-              <TimePosition>133807131692616981</TimePosition>
+              <TimePosition>133807205822581406</TimePosition>
               <Title>Marker</Title>
               <ValuePrecision>4</ValuePrecision>
               <Visible>true</Visible>
